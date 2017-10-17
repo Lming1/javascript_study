@@ -7,6 +7,9 @@ var a = [];
 
 a.push(1,2,3);
 a.reverse();
+console.log(a);
+
+
 
 var points = [
     {x:0, y:0},
